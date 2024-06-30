@@ -41,3 +41,8 @@ console.log(multiplication(a, b));
 console.log(amount(a, b));
 console.log(division(a, b));
 ``` 
+6. Experience: https://github.com/ZhenyaBardachina/java_script_basic
+
+7. Education: GeekBrains (Python-Developer)
+
+8. Languages: English A2. A little German and I also want to learn Chinese 
